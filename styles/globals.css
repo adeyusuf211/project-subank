@@ -164,6 +164,11 @@ a {
   filter: blur(250px);
 }
 
+.yellow__gradient {
+  background: linear-gradient(90deg, rgb(252, 189, 81) 0%, rgb(105, 100, 0) 100%);
+  filter: blur(250px);
+}
+
 .white__gradient {
   background: rgba(255, 255, 255, 0.6);
   filter: blur(750px);
