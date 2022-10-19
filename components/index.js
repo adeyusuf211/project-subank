@@ -4,6 +4,7 @@ import CardDeal from "./CardDeal";
 import Business from "./Business";
 import Clients from "./Clients";
 import CTA from "./CTA";
+import MetaData from "./MetaData";
 import Stats from "./Stats";
 import Footer from "./Footer";
 import Testimonials from "./Testimonials";
@@ -16,6 +17,7 @@ export {
   Business,
   Clients,
   CTA,
+  MetaData,
   Stats,
   Footer,
   Testimonials,
