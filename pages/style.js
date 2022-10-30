@@ -27,4 +27,4 @@ export const layout = {
   sectionInfo: `flex-1 ${styles.flexStart} flex-col`,
 };
 
-export default styles;
+export default [styles, layout];
